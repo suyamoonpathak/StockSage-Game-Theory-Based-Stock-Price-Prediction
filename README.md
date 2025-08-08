@@ -29,7 +29,7 @@ In financial markets, predicting stock prices is a challenging task. This projec
 - **Major Event Biases:** Considers major global events like the COVID-19 pandemic, geopolitical conflicts, and employee layoffs, assessing their impact on market sentiments.
 
 ## Methodology
-
+![Alt text](methodology.png)
 - **Data Collection:** Gathers stock prices from Yahoo Finance API and integrates major event data from reliable sources.
 - **LSTM Training:** Trains the LSTM model on historical stock data to learn intrinsic statistical trends.
 - **Game Theory Biases:** Calculates biases based on speculators' optimal strategies and risk assessments.
@@ -37,6 +37,8 @@ In financial markets, predicting stock prices is a challenging task. This projec
 - **Major Event Biases Integration:** Incorporates major event biases into the predictive model.
 
 ## Results
+![Alt text](output_new.png)
+
 
 ### Before Incorporating Biases:
 - RMSE: 5.45
